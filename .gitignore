@@ -4,3 +4,4 @@
 *.pdb
 *.out
 .vscode
+*.ini
