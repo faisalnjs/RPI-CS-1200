@@ -1,1 +1,5 @@
-Phone number is invalid.
+Your driver Carlos has canceled the ride request. We will now find a new driver for you.
+Ride requested for rider Brenda, looking for a Premium vehicle.
+Pick Up Location: Carroll_Gardens, Drop Off Location: The_High_Line.
+We have found the closest driver Nancy(3.9) for you.
+Nancy is now 6.5 miles away from you.

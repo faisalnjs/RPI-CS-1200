@@ -17,7 +17,7 @@ Remember: Your implementation for this assignment must be done on your
 own, as described in "Academic Integrity for Homework" handout.
 
 
-ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  < insert # hours >
+ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  Timed: 3 hours, 20 minutes
 
 
 MISC. COMMENTS TO GRADER:
