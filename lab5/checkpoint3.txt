@@ -1,0 +1,13 @@
+(gdb)
+break 26
+run
+watch u->access_level
+c
+
+next
+
+c
+c
+p u->name
+set flag = true
+c
