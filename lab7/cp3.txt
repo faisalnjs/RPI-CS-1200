@@ -1,0 +1,15 @@
+b main
+r grid2.txt
+b 109
+info b
+continue
+print currentPoint.x
+print currentPoint.y
+next
+next
+next
+next
+next
+print blocked_grid
+print blocked_grid[x][y]
+print blocked_grid[x-1][y+1]
