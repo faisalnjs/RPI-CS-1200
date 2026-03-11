@@ -1,0 +1,10 @@
+Part 1:
+
+Big O notation: O(N) where N is 1000. O(1) for add() and identify() functions.
+
+7-digit numbers work, but 10-digit numbers would need to use long int instead of int due to the size of the integers.
+
+
+Part 2:
+
+O(n), more efficient because not initializing and faster searching. O(log(n)).
