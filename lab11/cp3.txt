@@ -1,0 +1,3 @@
+Why do we need each CallerIDEntry to have a hadElement variable?
+
+hadElement enables us to differentiate between a used CallerIDEntry or unused. Without it, we don't know if the memory has been allocated in the past or not. We need it so that we know whether to initialize a new CallerIDEntry or not. For finding a entry, it would increment the modulated index number if there was an old element, in order to get to the other misplaced element.
