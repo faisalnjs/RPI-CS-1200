@@ -1,0 +1,13 @@
+Polygon
+Triangle
+Quadrilateral
+Isosceles Triangle
+Isosceles Right Triangle
+Right Triangle
+Equilateral Triangle
+Rectangle
+Trapezoid
+Parallelogram
+Kite
+Rhombus
+Square
